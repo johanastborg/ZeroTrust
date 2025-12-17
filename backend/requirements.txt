@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+google-cloud-bigtable
+redis
+firebase-admin
